@@ -1,0 +1,9 @@
+env/
+env
+__pycache__
+*/__pycache__
+__pycache__/
+saved_models/*
+coin_prices/*
+saved_models
+coin_prices
